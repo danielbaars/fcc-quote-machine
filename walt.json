@@ -1,0 +1,532 @@
+[
+    {
+        "id": 1,
+        "quote": "Laughter is America’s most important export.",
+        "category": "Life"
+    },
+    {
+        "id": 2,
+        "quote": "There is more treasure in books than in all the pirate’s loot on Treasure Island.",
+        "category": "Life"
+    },
+    {
+        "id": 3,
+        "quote": "The era we are living in today is a dream of coming true.",
+        "category": "Life"
+    },
+    {
+        "id": 4,
+        "quote": "Somehow I can’t believe that there are any heights that can’t be scaled by a man who knows the secrets of making dreams come true. This special secret, it seems to me, can be summarized in four C s. They are curiosity, confidence, courage, and constancy.",
+        "category": "Life"
+    },
+    {
+        "id": 5,
+        "quote": "There is great comfort and inspiration in the feeling of close human relationships and its bearing on our mutual fortunes – a powerful force, to overcome the tough breaks which are certain to come to most of us from time to time. -Walt Disney",
+        "category": "Life"
+    },
+    {
+        "id": 6,
+        "quote": "A man should never neglect his family for business.",
+        "category": "Life"
+    },
+    {
+        "id": 7,
+        "quote": "The worst of us is not without innocence, although buried deeply it might be.",
+        "category": "Life"
+    },
+    {
+        "id": 8,
+        "quote": "Leadership means that a group, large or small, is willing to entrust authority to a person who has shown judgment, wisdom, personal appeal, and proven competence.",
+        "category": "Life"
+    },
+    {
+        "id": 9,
+        "quote": "Fantasy and reality often overlap.",
+        "category": "Life"
+    },
+    {
+        "id": 10,
+        "quote": "Laughter is timeless, imagination has no age, dreams are forever.",
+        "category": "Life"
+    },
+    {
+        "id": 11,
+        "quote": "The important thing is the family. If you can keep the family together — and that’s the backbone of our whole business, catering to families — that’s what we hope to do.",
+        "category": "Life"
+    },
+    {
+        "id": 12,
+        "quote": "There’s nothing funnier than the human animal.",
+        "category": "Life"
+    },
+    {
+        "id": 13,
+        "quote": "Our heritage and ideals, our code and standards – the things we live by and teach our children – are preserved or diminished by how freely we exchange ideas and feelings.",
+        "category": "Life"
+    },
+    {
+        "id": 14,
+        "quote": "You reach a point where you don’t work for money.",
+        "category": "Life"
+    },
+    {
+        "id": 15,
+        "quote": "For every laugh, there should be a tear.",
+        "category": "Life"
+    },
+    {
+        "id": 16,
+        "quote": "You can’t just let nature run wild.",
+        "category": "Life"
+    },
+    {
+        "id": 17,
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 18,
+        "quote": "I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 19,
+        "quote": "If you can dream it, you can do it.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 20,
+        "quote": "Do a good job. You don’t have to worry about the money; it will take care of itself. Just do your best work — then try to trump it.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 21,
+        "quote": "The more you like yourself, the less you are like anyone else, which makes you unique.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 22,
+        "quote": "A person should set his goals as early as he can and devote all his energy and talent to getting there. With enough effort, he may achieve it. Or he may find something that is even more rewarding. But in the end, no matter what the outcome, he will know he has been alive.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 23,
+        "quote": "When you believe in a thing, believe in it all the way, implicitly and unquestionable.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 24,
+        "quote": "All our dreams can come true, if we have the courage to pursue them.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 25,
+        "quote": "All the adversity I’ve had in my life, all my troubles and obstacles, have strengthened me… You may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 26,
+        "quote": "Why worry? If you’ve done the very best you can, worrying won’t make it any better.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 27,
+        "quote": "First, think. Second, believe. Third, dream. And finally, dare.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 28,
+        "quote": "Get a good idea and stay with it. Dog it, and work at it until it’s done right.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 29,
+        "quote": "The difference between winning and losing is most often not quitting.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 30,
+        "quote": "Whatever you do, do it well.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 31,
+        "quote": "All you’ve got to do is own up to your ignorance honestly, and you’ll find people who are eager to fill your head with information.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 32,
+        "quote": "Everyone falls down. Getting back up is how you learn how to walk.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 33,
+        "quote": "Never get bored or cynical. Yesterday is a thing of the past.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 34,
+        "quote": "Courage is the main quality of leadership, in my opinion, no matter where it is exercised. Usually it implies some risk — especially in new undertakings. Courage to initiate something and to keep it going, pioneering and adventurous spirit to blaze new ways, often, in our land of opportunity.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 35,
+        "quote": "It’s kind of fun to do the impossible.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 36,
+        "quote": "People often ask me if I know the secret of success and if I could tell others how to make their dreams come true. My answer is, you do it by working.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 37,
+        "quote": "When you’re curious, you find lots of interesting things to do. And one thing it takes to accomplish something is courage.",
+        "category": "Inspiration"
+    },
+    {
+        "id": 38,
+        "quote": "That’s the real trouble with the world, too many people grow up. They forget.",
+        "category": "Children"
+    },
+    {
+        "id": 39,
+        "quote": "Crowded classrooms and half-day sessions are a tragic waste of our greatest national resource – the minds of our children.",
+        "category": "Children"
+    },
+    {
+        "id": 40,
+        "quote": "Adults are interested if you don’t play down to the little 2 or 3 year olds or talk down. I don’t believe in talking down to children. I don’t believe in talking down to any certain segment. I like to kind of just talk in a general way to the audience. Children are always reaching.",
+        "category": "Children"
+    },
+    {
+        "id": 41,
+        "quote": "Children are people, and they should have to reach to learn about things, to understand things, just as adults have to reach if they want to grow in mental stature.",
+        "category": "Children"
+    },
+    {
+        "id": 42,
+        "quote": "Childishness? I think it’s the equivalent of never losing your sense of humor. I mean, there’s a certain something that you retain. It’s the equivalent of not getting so stuffy that you can’t laugh at others.",
+        "category": "Children"
+    },
+    {
+        "id": 43,
+        "quote": "Our greatest natural resource is the minds of our children.",
+        "category": "Children"
+    },
+    {
+        "id": 44,
+        "quote": "I do not make films primarily for children. I make them for the child in all of us, whether he be six or sixty. Call the child innocence.",
+        "category": "Children"
+    },
+    {
+        "id": 45,
+        "quote": "I don’t believe in playing down to children, either in life or in motion pictures. I didn’t treat my own youngsters like fragile flowers, and I think no parent should.",
+        "category": "Children"
+    },
+    {
+        "id": 46,
+        "quote": "I have long felt that the way to keep children out of trouble is to keep them interested in things.",
+        "category": "Children"
+    },
+    {
+        "id": 47,
+        "quote": "Why do we have to grow up? I know more adults who have the children’s approach to life. They’re people who don’t give a hang what the Jones’ do. You see them at Disneyland every time you go there. They are not afraid to be delighted with simple pleasures, and they have a degree of contentment with what life has brought – sometimes it isn’t much, either.",
+        "category": "Children"
+    },
+    {
+        "id": 48,
+        "quote": "You’re dead if you aim only for kids. Adults are only kids grown up, anyway.",
+        "category": "Children"
+    },
+    {
+        "id": 49,
+        "quote": "Every child is born blessed with a vivid imagination. But just as a muscle grows flabby with disuse, so the bright imagination of a child pales in later years if he ceases to exercise it.",
+        "category": "Children"
+    },
+    {
+        "id": 50,
+        "quote": "It’s a mistake not to give people a chance to learn to depend on themselves while they are young.",
+        "category": "Children"
+    },
+    {
+        "id": 51,
+        "quote": "Animation offers a medium of story telling and visual entertainment which can bring pleasure and information to people of all ages everywhere in the world.",
+        "category": "Animation"
+    },
+    {
+        "id": 52,
+        "quote": "Animation is different from other parts. Its language is the language of caricature. Our most difficult job was to develop the cartoon’s unnatural but seemingly natural anatomy for humans and animals.",
+        "category": "Animation"
+    },
+    {
+        "id": 53,
+        "quote": "All cartoon characters and fables must be exaggeration, caricatures. It is the very nature of fantasy and fable.",
+        "category": "Animation"
+    },
+    {
+        "id": 54,
+        "quote": "Animation can explain whatever the mind of man can conceive. This facility makes it the most versatile and explicit means of communication yet devised for quick mass appreciation.",
+        "category": "Animation"
+    },
+    {
+        "id": 55,
+        "quote": "In our animation we must show only the actions and reactions of a character, but we must picture also with the action. . . the feeling of those characters.",
+        "category": "Animation"
+    },
+    {
+        "id": 56,
+        "quote": "I try to build a full personality for each of our cartoon characters – to make them personalities.",
+        "category": "Animation"
+    },
+    {
+        "id": 57,
+        "quote": "I think a good study of music would be indispensable to the animators — a realization on their part of how primitive music is, how natural it is for people to want to go to music — a study of rhythm, the dance — the various rhythms enter into our lives every day.",
+        "category": "Animation"
+    },
+    {
+        "id": 58,
+        "quote": "Until a character becomes a personality it cannot be believed. Without personality, the character may do funny or interesting things, but unless people are able to identify themselves with the character, its actions will seem unreal. And without personality, a story cannot ring true to the audience.",
+        "category": "Animation"
+    },
+    {
+        "id": 59,
+        "quote": "I think you have to know these fellows definitely before you can draw them. When you start to caricature a person, you can’t do it without knowing the person. Take Laurel and Hardy for example; everybody can see Laurel doing certain things because they know Laurel.",
+        "category": "Animation"
+    },
+    {
+        "id": 60,
+        "quote": "Of all of our inventions for mass communication, pictures still speak the most universally understood language.",
+        "category": "Animation"
+    },
+    {
+        "id": 61,
+        "quote": "I love Mickey Mouse more than any woman I have ever known.",
+        "category": "Mickey Mouse"
+    },
+    {
+        "id": 62,
+        "quote": "Mickey Mouse is, to me, a symbol of independence. He was a means to an end.",
+        "category": "Mickey Mouse"
+    },
+    {
+        "id": 63,
+        "quote": "When people laugh at Mickey Mouse, it’s because he’s so human; and that is the secret of his popularity.",
+        "category": "Mickey Mouse"
+    },
+    {
+        "id": 64,
+        "quote": "Mickey Mouse popped out of my mind onto a drawing pad 20 years ago on a train ride from Manhattan to Hollywood at a time when business fortunes of my brother Roy and myself were at lowest ebb and disaster seemed right around the corner.",
+        "category": "Mickey Mouse"
+    },
+    {
+        "id": 65,
+        "quote": "I only hope that we don’t lose sight of one thing – that it was all started by a mouse.",
+        "category": "Mickey Mouse"
+    },
+    {
+        "id": 66,
+        "quote": "Disneyland will never be completed. It will continue to grow as long as there is imagination left in the world.",
+        "category": "Disneyland"
+    },
+    {
+        "id": 67,
+        "quote": "I don’t want the public to see the world they live in while they’re in the Park (Disneyland). I want to feel they’re in another world.",
+        "category": "Disneyland"
+    },
+    {
+        "id": 68,
+        "quote": "Disneyland is a work of love. We didn’t go into Disneyland just with the idea of making money.",
+        "category": "Disneyland"
+    },
+    {
+        "id": 69,
+        "quote": "Disneyland is the star, everything else is in the supporting role.",
+        "category": "Disneyland"
+    },
+    {
+        "id": 70,
+        "quote": "We did it Disneyland, in the knowledge that most of the people I talked to thought it would be a financial disaster – closed and forgotten within the first year.",
+        "category": "Disneyland"
+    },
+    {
+        "id": 71,
+        "quote": "Disneyland is a show.",
+        "category": "Disneyland"
+    },
+    {
+        "id": 72,
+        "quote": "I could never convince the financiers that Disneyland was feasible, because dreams offer too little collateral.",
+        "category": "Disneyland"
+    },
+    {
+        "id": 73,
+        "quote": "You can dream, create, design and build the most wonderful place in the world, but it requires people to make the dream a reality.",
+        "category": "Disneyland"
+    },
+    {
+        "id": 74,
+        "quote": "We keep moving forward, opening new doors, and doing new things, because we’re curious and curiosity keeps leading us down new paths.",
+        "category": "the Disney Studios"
+    },
+    {
+        "id": 75,
+        "quote": "We are not trying to entertain the critics. I’ll take my chances with the public.",
+        "category": "the Disney Studios"
+    },
+    {
+        "id": 76,
+        "quote": "We allow no geniuses around our Studio.",
+        "category": "the Disney Studios"
+    },
+    {
+        "id": 77,
+        "quote": "Movies can and do have tremendous influence in shaping young lives in the realm of entertainment towards the ideals and objectives of normal adulthood.",
+        "category": "the Disney Studios"
+    },
+    {
+        "id": 78,
+        "quote": "We have created characters and animated them in the dimension of depth, revealing through them to our perturbed world that the things we have in common far outnumber and outweigh those that divide us.",
+        "category": "the Disney Studios"
+    },
+    {
+        "id": 79,
+        "quote": "At first the cartoon medium was just a novelty, but it never really began to hit until we had more than tricks… until we developed personalities. We had to get beyond getting a laugh. They may roll in the aisles, but that doesn’t mean you have a great picture. You have pathos in the thing.",
+        "category": "the Disney Studios"
+    },
+    {
+        "id": 80,
+        "quote": "Times and conditions change so rapidly that we must keep our aim constantly focused on the future.",
+        "category": "the Disney Studios"
+    },
+    {
+        "id": 81,
+        "quote": "I take great pride in the artistic development of cartoons. Our characters are made to go through emotions.",
+        "category": "the Disney Studios"
+    },
+    {
+        "id": 82,
+        "quote": "I wanted to retain my individuality. I was afraid of being hampered by studio policies. I knew if someone else got control, I would be restrained.",
+        "category": "the Disney Studios"
+    },
+    {
+        "id": 83,
+        "quote": "My greatest reward is that I have been able to build this wonderful organization.",
+        "category": "the Disney Studios"
+    },
+    {
+        "id": 84,
+        "quote": "I would rather entertain and hope that people learned something than educate people and hope they were entertained.",
+        "category": "himself"
+    },
+    {
+        "id": 85,
+        "quote": "I believe in being an innovator.",
+        "category": "himself"
+    },
+    {
+        "id": 86,
+        "quote": "I never called my work an ‘art’. It’s part of show business, the business of building entertainment.",
+        "category": "himself"
+    },
+    {
+        "id": 87,
+        "quote": "I believe in being a motivator.",
+        "category": "himself"
+    },
+    {
+        "id": 88,
+        "quote": "I am interested in entertaining people, in bringing pleasure, particularly laughter, to others, rather than being concerned with ‘expressing’ myself with obscure creative impressions.",
+        "category": "himself"
+    },
+    {
+        "id": 89,
+        "quote": "I am not influenced by the techniques or fashions of any other motion picture company.",
+        "category": "himself"
+    },
+    {
+        "id": 90,
+        "quote": "I am corny, you know? But I think there are just about 140 million people in this country who are just as corny as I am.",
+        "category": "himself"
+    },
+    {
+        "id": 91,
+        "quote": "I resent the limitations of my own imagination.",
+        "category": "himself"
+    },
+    {
+        "id": 92,
+        "quote": "I am in no sense of the word a great artist, not even a great animator; I have always had men working for me whose skills were greater than my own. I am an idea man.",
+        "category": "himself"
+    },
+    {
+        "id": 93,
+        "quote": "When I was a kid, a book I read advised young artists to be themselves. That decided it for me. I was a corny kind of guy, so I went in for corn.",
+        "category": "himself"
+    },
+    {
+        "id": 94,
+        "quote": "I don’t make pictures just to make money. I make money to make more pictures.",
+        "category": "himself"
+    },
+    {
+        "id": 95,
+        "quote": "I have never been interested in personal gain or profit. This business and this studio have been my entire life.",
+        "category": "himself"
+    },
+    {
+        "id": 96,
+        "quote": "In bad times and in good, I’ve never lost my sense of zest for life.",
+        "category": "himself"
+    },
+    {
+        "id": 97,
+        "quote": "Money doesn’t excite me, my ideas excite me.",
+        "category": "himself"
+    },
+    {
+        "id": 98,
+        "quote": "Most of my life I have done what I wanted to do. I have had fun on the job.",
+        "category": "himself"
+    },
+    {
+        "id": 99,
+        "quote": "I dream, I test my dreams against my beliefs, I dare to take risks, and I execute my vision to make those dreams come true.",
+        "category": "himself"
+    },
+    {
+        "id": 100,
+        "quote": "Of all the things I’ve done, the most vital is coordinating those who work with me and aiming their efforts at a certain goal.",
+        "category": "himself"
+    },
+    {
+        "id": 101,
+        "quote": "I don’t like formal gardens. I like wild nature. It’s just the wilderness instinct in me, I guess.",
+        "category": "himself"
+    },
+    {
+        "id": 102,
+        "quote": "I do not like to repeat successes, I like to go on to other things.",
+        "category": "himself"
+    },
+    {
+        "id": 103,
+        "quote": "I have been up against tough competition all my life. I wouldn’t know how to get along without it.",
+        "category": "himself"
+    },
+    {
+        "id": 104,
+        "quote": "I’d say it’s been my biggest problem all my life… it’s money. It takes a lot of money to make these dreams come true.",
+        "category": "himself"
+    },
+    {
+        "id": 105,
+        "quote": "I have no use for people who throw their weight around as celebrities, or for those who fawn over you just because you are famous.",
+        "category": "himself"
+    },
+    {
+        "id": 106,
+        "quote": "Whenever I go on a ride, I’m always thinking of what’s wrong with the thing and how it can be improved.",
+        "category": "himself"
+    }
+]

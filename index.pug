@@ -1,0 +1,27 @@
+extends _default
+
+block head
+	- var pageTitle = 'WaltWords | A Walt Disney Random Quote Machine'
+	- var metaDescription = "A random quote machine built as part of Free Code Camp's 'Intermediate Front End Development Projects', using Pug, SCSS and Bootstrap 4."	
+	- var companyName = 'Free Code Camp'
+	- var bodyClass = 'quote-machine'
+
+block content
+.masthead__outer.navbar.navbar-toggleable-md.navbar-light.bg-faded
+	.masthead.container
+		button.navbar-toggler.navbar-toggler-right(type='button', data-toggle='collapse', data-target='#navbarNav', aria-controls='navbarNav', aria-expanded='false', aria-label='Toggle navigation')
+			span.navbar-toggler-icon
+		a.navbar-brand(href="#")
+			span.navbar-brand__name WaltWords
+			img.navbar-brand__image.d-inline-block.align-top(src="https://cdn.rawgit.com/danielbaars/0f27c9173a8f65066fddd6e2f71b7944/raw/041dab2400d2f9ea71433f5bec7995a154ead6e7/disney-icon.svg" width="30" height="30" alt="")
+			span.navbar-brand__byline A Walt Disney Random Quote Machine
+.hero__outer
+	.hero.container
+		.hero__image.imgc: img(src='http://i.imgur.com/QefAZDs.jpg')
+		.hero__info-button-container
+			.hero__info
+			button.hero__button.btn.btn-primary(type="button") More Walt Wisdom
+.footer__outer
+	.footer.container
+		.footer__credits Created by #[a.invisible-link(href="http://www.danieldesign.nl" target="_blank") Daniel Baars]
+		.footer__tweet #[a.twitter-share-button.btn.btn-primary(href="https://twitter.com/intent/tweet?text=" data-size="large" target="_blank") #[i.fa.fa-twitter(aria-hidden="true")] Tweet this Walt Quote]
